@@ -1,6 +1,5 @@
 import dispenser           #dispenser.py
 import stattracker         #stattracker.py
-import keyboard
 import csv
 import pygame
 
